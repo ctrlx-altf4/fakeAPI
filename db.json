@@ -1,3 +1,36 @@
 {
-"employee":{ "name":"John", "age":30, "city":"New York" }
+	"data": [{
+			"name": "Pragya",
+			"surname": "Pramita",
+			"birthYear": 987,
+			"birthCity": 6
+		},
+		{
+			"name": "Nishchal",
+			"surname": "Dahal",
+			"birthYear": 187,
+			"birthCity": 60
+		},
+		{
+			"name": "Ishwor",
+			"surname": "Shrestha",
+			"birthYear": 1987,
+			"birthCity": 64
+		}, {
+			"name": "Sandeep",
+			"surname": "Poudel",
+			"birthYear": 1986,
+			"birthCity": 65
+		}, {
+			"name": "Anuja",
+			"surname": "Kadel",
+			"birthYear": 1996,
+			"birthCity": 66
+		}, {
+			"name": "Prajwal",
+			"surname": "Pradhan",
+			"birthYear": 1997,
+			"birthCity": 67
+		}
+	]
 }
