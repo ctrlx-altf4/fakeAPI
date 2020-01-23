@@ -1,36 +1,88 @@
 {
-	"details": [{
-			"name": "Pragya",
-			"surname": "Pramita",
-			"birthYear": 987,
-			"birthCity": 6
-		},
-		{
-			"name": "Nishchal",
-			"surname": "Dahal",
-			"birthYear": 187,
-			"birthCity": 60
-		},
-		{
-			"name": "Ishwor",
-			"surname": "Shrestha",
-			"birthYear": 1987,
-			"birthCity": 64
-		}, {
-			"name": "Sandeep",
-			"surname": "Poudel",
-			"birthYear": 1986,
-			"birthCity": 65
-		}, {
-			"name": "Anuja",
-			"surname": "Kadel",
-			"birthYear": 1996,
-			"birthCity": 66
-		}, {
-			"name": "Prajwal",
-			"surname": "Pradhan",
-			"birthYear": 1997,
-			"birthCity": 67
-		}
-	]
+	"fromgit": [{
+		"details": [{
+				"name": "Pragya",
+				"surname": "Pramita",
+				"birthYear": 987,
+				"birthCity": 6
+			},
+			{
+				"name": "Nishchal",
+				"surname": "Dahal",
+				"birthYear": 187,
+				"birthCity": 60
+			},
+			{
+				"name": "Ishwor",
+				"surname": "Shrestha",
+				"birthYear": 1987,
+				"birthCity": 64
+			}, {
+				"name": "Sandeep",
+				"surname": "Poudel",
+				"birthYear": 1986,
+				"birthCity": 65
+			}, {
+				"name": "Anuja",
+				"surname": "Kadel",
+				"birthYear": 1996,
+				"birthCity": 66
+			}, {
+				"name": "Prajwal",
+				"surname": "Pradhan",
+				"birthYear": 1997,
+				"birthCity": 67
+			}
+		]
+	}, {
+		"notifications": [{
+				"icon": "icon",
+				"title": "hello",
+				"description": "Hello there I am prajwal",
+				"color": "red",
+				"timestamp": "55:00:33",
+				"hiddenLink": "https://material-ui.com/components/drawers/#drawer"
+			},
+			{
+				"icon": "medium",
+				"title": "post",
+				"description": "Hello medium I am prajwal",
+				"color": "white",
+				"timestamp": "5:0:3",
+				"hiddenLink": "https://medium.com/swlh/the-case-for-flux-379b7d1982c6"
+			},
+			{
+				"icon": "git",
+				"title": "github",
+				"description": "git there I am prajwal",
+				"color": "black",
+				"timestamp": "55:80:33",
+				"hiddenLink": "https://github.com"
+			},
+			{
+				"icon": "facebook",
+				"title": "face",
+				"description": "Hello there I am facebook",
+				"color": "blue",
+				"timestamp": "5:00:33",
+				"hiddenLink": "https://facebook.com"
+			},
+			{
+				"icon": "google",
+				"title": "Google",
+				"description": "Googlethere I am prajwal",
+				"color": "red",
+				"timestamp": "55:00:33",
+				"hiddenLink": "https://google.com"
+			},
+			{
+				"icon": "icon5",
+				"title": "redux",
+				"description": "5Hello there I am prajwal",
+				"color": "5red",
+				"timestamp": "555:00:33",
+				"hiddenLink": "https://redux.js.org/introduction/getting-started/"
+			}
+		]
+	}]
 }
