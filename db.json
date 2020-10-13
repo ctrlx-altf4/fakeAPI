@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+"[{"name":"Ishwor Shrestha","college":"Himalaya college","result":"failed"},{"name":"Prajwal Pradhan","college":"Pulchowk College","result":"failed"},{"name":"Neema Tsering Tamang","college":"Puchowk College","result":"passed"},{"name":"Krimesh Bajimayo","college":"Pulchowk College","result":"passed"},{"name":"Ishika Shrestha","college":"Himalaya college","result":"failed"},{"name":"Priyanka Pradhan","college":"Himalaya College","result":"passed"},{"name":"Nitesh Tamang","college":"Puchowk College","result":"passed"},{"name":"Kalu Bajimayo","college":"Pulchowk College","result":"passed"}]"
