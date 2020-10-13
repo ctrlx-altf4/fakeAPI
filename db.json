@@ -1,15 +1,14 @@
 {
-    "_id": {
-        "$oid": "5e8af6a574b45askdfjljslk"
-    },
-    "itemName": ["food","basmati","rice"],
-"inventory":"60",
-"rate":"2000",
-"marketRate":"2050",
-"orderRange":{
- "min":"10",
-"max":"50" 
-},
-   "description":"Lorem Ipsum",
-"published":"true"   
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
