@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Coffee with Milk",
+    "description": "Lorem ipsum o orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "category": "breakfast",
+    "time": "30 mins",
+    "qty": "3 serves",
+    "price": "Rs. 200.00",
+    "img": "https://images.unsplash.com/photo-1511920170033-f8396924c348?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+  },
+  {
+    "title": "Bread Toast",
+    "description": "Nemo exercitationem non molestias ratione natus molestiae sit pariatur dolor. Quas atque est officia quidem eos ab. Vitae voluptatem numquam in reprehenderit. Ipsam asperiores repellat eius saepe natus sit sed.",
+    "category": "breakfast",
+    "time": "10 mins",
+    "qty": "2 serves",
+    "price": "Rs. 100.00",
+    "img": "https://images.unsplash.com/photo-1497581175344-8a5f1a0142a5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=358&q=80"
+  },
+  {
+    "title": "Omelet fried",
+    "description": "Accusantium iste dolor incidunt pariatur. Qui dicta cumque quibusdam. Laborum atque iure eum neque quia. Nihil ratione veniam cupiditate rerum quia voluptatibus est. Eos id vero aut.",
+    "category": "breakfast",
+    "time": "40 mins",
+    "qty": "1 serve",
+    "price": "Rs. 900.00",
+    "img": "https://images.unsplash.com/photo-1604242684508-c309e173a3e7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+  },
+   {
+    "title": "Chocos Chocolate",
+    "description": "Accusantium iste dolor incidunt pariatur. Qui dicta cumque quibusdam. Laborum atque iure eum neque quia. Nihil ratione veniam cupiditate rerum quia voluptatibus est. Eos id vero aut.",
+    "category": "breakfast",
+    "time": "5 mins",
+    "qty": "10 serve",
+    "price": "Rs. 400.00",
+    "img": "https://images.unsplash.com/photo-1601850513971-239e8aa2b08e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+  },
+  {
+    "title": "Daal Fry",
+    "description": "Libero necessitatibus soluta velit ut aut rerum. A et est voluptate ut. Ipsa voluptatum quaerat facilis enim.",
+    "category": "lunch",
+    "time": "90 mins",
+    "qty": "2 serves",
+    "price": "Rs. 1000.00",
+    "img": "https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+  },
+  {
+    "title": "Veg Thuppa",
+    "description": "Sunt voluptatibus dolor minima aut alias non ratione quos. Perspiciatis accusantium id consequatur esse dolores ut voluptatem voluptatem fugiat. Nisi ipsum vel et. Perspiciatis sit molestiae ipsa et voluptatum itaque unde quasi perspiciatis. Et blanditiis tempore quibusdam repudiandae iste.",
+    "category": "lunch",
+    "time": "70 mins",
+    "qty": "3 serves",
+    "price": "Rs. 100.00",
+    "img": "https://images.unsplash.com/photo-1481931098730-318b6f776db0?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=337&q=80"
+  },
+  {
+    "title": "Fried Masyaura",
+    "description": "Ullam quo laboriosam eum. Nostrum ipsa ut qui sint. Recusandae sunt debitis aut doloremque hic. Voluptate at beatae quisquam fugit ducimus voluptas autem vel. Reprehenderit aut ea officiis veniam. Et in ullam at deserunt vero.",
+    "category": "lunch",
+    "time": "30 mins",
+    "qty": "3 serves",
+    "price": "Rs. 200.00",
+    "img": "https://images.unsplash.com/photo-1529042410759-befb1204b468?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=333&q=80"
+  },
+  {
+    "title": "Mo Mo",
+    "description": "Ullam quo laboriosam eum. Nostrum ipsa ut qui sint. Recusandae sunt debitis aut doloremque hic. Voluptate at beatae quisquam fugit ducimus voluptas autem vel. Reprehenderit aut ea officiis veniam. Et in ullam at deserunt vero.",
+    "category": "lunch",
+    "time": "30 mins",
+    "qty": "1 serve",
+    "price": "Rs. 90.00",
+    "img": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+  },
+  {
+    "title": "Chicken Biryani",
+    "description": "Consequatur et aut. Consequatur reiciendis omnis non atque quis ea. Sed reprehenderit et asperiores ad et et non beatae doloremque.",
+    "category": "dinner",
+    "time": "50 mins",
+    "qty": "3 serves",
+    "price": "Rs. 3200.00",
+    "img": "https://images.unsplash.com/photo-1542367592-8849eb950fd8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80"
+  },
+  {
+    "title": "Fried Rice",
+    "description": "Quasi officia nihil. Autem cum molestiae. Enim consequuntur et est doloremque est. Et rerum commodi commodi neque. Expedita est quisquam ut id facilis dolor quo dolorum.",
+    "category": "dinner",
+    "time": "10 mins",
+    "qty": "1 serve",
+    "price": "Rs. 100.00",
+    "img": "https://images.unsplash.com/photo-1512058564366-18510be2db19?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=752&q=80"
+  }
+  {
+    "title": "Boiled Rice",
+    "description": "Quasi officia nihil. Autem cum molestiae. Enim consequuntur et est doloremque est. Et rerum commodi commodi neque. Expedita est quisquam ut id facilis dolor quo dolorum.",
+    "category": "dinner",
+    "time": "50 mins",
+    "qty": "2 serves",
+    "price": "Rs. 250.00",
+    "img": "https://images.unsplash.com/photo-1516684732162-798a0062be99?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+  }
+]
